@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecuvoata.github.io/WQi/sitemap_index.txt
+Sitemap: https://ecuvoata.github.io/cUn/sitemap_index.txt
+Sitemap: https://ecuvoata.github.io/nVq/sitemap_index.txt
+Sitemap: https://ecuvoata.github.io/rkj/sitemap_index.txt
